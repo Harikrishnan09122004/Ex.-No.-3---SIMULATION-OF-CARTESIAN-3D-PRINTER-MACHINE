@@ -61,8 +61,8 @@
 ## Output:
 ![image](https://github.com/user-attachments/assets/066016f6-2feb-4571-9d46-dc6d0afbe69a)
 
-### Name: 
-### Register Number:
+### Name: HARIKRISHNAN R
+### Register Number:24900402
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
